@@ -1,0 +1,1 @@
+This project aims to explore and understand key drivers of co-op employee engagement at Intel Vancouver, and provide actionable recommendations to the co-op supervisors and the local management team. The data was collected directly from co-op employees who were working at Intel Vancouver in February 2020. We utilized PowerBI to create visualizations and for data analysis.
